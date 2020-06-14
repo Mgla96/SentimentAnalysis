@@ -1,1 +1,2 @@
 # SentimentAnalysis
+This program determines the sentiment of a review and predicts whether it is a positive or negative review. I implemented a Multinomial Naive Bayes model with Bag-Of-Words and Stop Words. Multinomial Naive Bayes was implemented using log probabilities to eliminate the issue of underflow that results from large amounts of unique words used with Bag-Of-Words for the Naive Bayes model.
